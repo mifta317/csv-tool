@@ -1,4 +1,4 @@
-package com.mifta.CSVUtility;
+package com.mifta.csv;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
